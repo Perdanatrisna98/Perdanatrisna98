@@ -6,8 +6,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Perdanatrisna98/Perdanatrisna98/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -66,7 +64,7 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <a href="https://open.spotify.com/user/fisuuyfrpgjn2udadpwzo19m0">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=fisuuyfrpgjn2udadpwzo19m0&count=8&unique=true" alt="Spotify recently played"  />
   </a>
