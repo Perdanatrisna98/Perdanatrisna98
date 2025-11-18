@@ -2,6 +2,11 @@
 
 ###
 
+<h4 align="center">I’m a student at SMK MVP Ars Internasional, learning fullstack development.
+Familiar with Bootstrap, HTML, CSS, and currently diving into Laravel, JavaScript, Flutter, and TypeScript.</h4>
+
+##
+
 <br clear="both">
 
 <div align="center">
@@ -41,10 +46,10 @@
 ###
 
 <div align="center">
-  <a href="erlangga_181_perdana" target="_blank">
+  <a href="https://www.instagram.com/erlangga_181_perdana" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="erlanggatrisna791@gmail.com" target="_blank">
+  <a href="mailto:erlanggatrisna791@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/erlangga-trisna-yudha-perdana-a82609369" target="_blank">
@@ -56,7 +61,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Perdanatrisna98/Perdanatrisna98/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Perdanatrisna98/Perdanatrisna98/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Perdanatrisna98/Perdanatrisna98/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Perdanatrisna98/Perdanatrisna98/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
