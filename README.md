@@ -2,10 +2,15 @@
 
 ###
 
-<h4 align="center">I’m a student at SMK MVP Ars Internasional, learning fullstack development.
-Familiar with Bootstrap, HTML, CSS, and currently diving into Laravel, JavaScript, Flutter, and TypeScript.</h4>
+<h5 align="center">I’m a student at SMK MVP Ars Internasional, learning fullstack development.<br>Familiar with Bootstrap, HTML, CSS, and currently diving into Laravel, JavaScript, Flutter, and TypeScript.</h5>
 
-##
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Perdanatrisna98/Perdanatrisna98/output/snake.svg" alt="Snake animation" />
+
+###
 
 <br clear="both">
 
@@ -16,6 +21,8 @@ Familiar with Bootstrap, HTML, CSS, and currently diving into Laravel, JavaScrip
 </div>
 
 ###
+
+<br clear="both">
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
@@ -32,13 +39,13 @@ Familiar with Bootstrap, HTML, CSS, and currently diving into Laravel, JavaScrip
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
@@ -46,7 +53,7 @@ Familiar with Bootstrap, HTML, CSS, and currently diving into Laravel, JavaScrip
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/erlangga_181_perdana" target="_blank">
+  <a href="https://www.instagram.com/erlangga_181_perdana/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:erlanggatrisna791@gmail.com" target="_blank">
@@ -59,25 +66,9 @@ Familiar with Bootstrap, HTML, CSS, and currently diving into Laravel, JavaScrip
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Perdanatrisna98/Perdanatrisna98/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Perdanatrisna98/Perdanatrisna98/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Perdanatrisna98/Perdanatrisna98/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://count.getloli.com/@:Perdanatrisna98?theme=yousa-ling&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
-
-###
-
-<div align="center">
+<div align="right">
   <a href="https://open.spotify.com/user/fisuuyfrpgjn2udadpwzo19m0">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=fisuuyfrpgjn2udadpwzo19m0&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=fisuuyfrpgjn2udadpwzo19m0&count=8&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
